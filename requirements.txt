@@ -9,4 +9,4 @@ gunicorn==19.9.0
 pandas==0.25.1
 plotly==4.4.1
 requests==2.22.0
-
+xlrd==1.2.0
