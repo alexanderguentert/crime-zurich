@@ -30,7 +30,7 @@ Erstellt durch: Alexander Güntert (https://github.com/alexanderguentert)'''
 
 
 #### data handling
-crime = f.get_data()
+crime = f.get_data(download=True)
 
 # plot for total crimes
 total_crimes_plot = f.chart_total_crimes(crime)
